@@ -1,0 +1,13 @@
+ru\itis\jlmq\Jlmq.class
+ru\itis\jlmq\JlmqConnector.class
+ru\itis\jlmq\Jlmq$ConnectorBuilder.class
+ru\itis\jlmq\MessageReceiver.class
+ru\itis\jlmq\JlmqProducer$ProducerStompSessionHandler.class
+ru\itis\jlmq\JlmqConnector$JlmqConnectorBuilder.class
+ru\itis\jlmq\JlmqConsumer$ConsumerStompSessionHandler.class
+ru\itis\models\Message$MessageBuilder.class
+ru\itis\jlmq\JlmqConnector$ConsumerBuilder.class
+ru\itis\jlmq\JlmqProducer.class
+ru\itis\models\Message.class
+ru\itis\jlmq\JlmqConsumer.class
+ru\itis\jlmq\JlmqConnector$ProducerBuilder.class

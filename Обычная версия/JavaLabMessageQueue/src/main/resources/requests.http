@@ -1,0 +1,8 @@
+POST http://localhost:8080/queue
+Content-Type: application/json
+
+{
+  "name": "documents_for_generate"
+}
+
+###
