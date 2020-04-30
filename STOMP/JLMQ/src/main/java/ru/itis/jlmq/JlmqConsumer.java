@@ -29,7 +29,7 @@ public class JlmqConsumer {
         uri = String.format(uri, port);
         this.queue = queue;
         this.messageReceiver = messageReceiver;
-        List<Transport> transports = new ArrayList<Transport>(1);
+        List<Transport> transports = new ArrayList<>(1);
         transports.add(new WebSocketTransport(new StandardWebSocketClient()));
         WebSocketClient webSocketClient = new SockJsClient(transports);
         WebSocketStompClient stompClient = new WebSocketStompClient(webSocketClient);

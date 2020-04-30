@@ -26,7 +26,7 @@ public class JlmqProducer {
     protected JlmqProducer(String port, String queue) {
         uri = String.format(uri, port);
         this.queue = queue;
-        List<Transport> transports = new ArrayList<Transport>(1);
+        List<Transport> transports = new ArrayList<>(1);
         transports.add(new WebSocketTransport(new StandardWebSocketClient()));
         WebSocketClient transport = new SockJsClient(transports);
         WebSocketStompClient stompClient = new WebSocketStompClient(transport);

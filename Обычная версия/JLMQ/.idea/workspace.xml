@@ -7,22 +7,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b137c4fd-d4c4-4ff6-a345-f2625a03251e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../STOMP/JLMQ/.idea/artifacts/stomp_jlmq_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../STOMP/JLMQ/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../STOMP/JLMQ/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../STOMP/JLMQ/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../STOMP/JavaLabMessageQueue/src/main/java/ru/itis/javalabmessagequeqe/config/StompConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../STOMP/JavaLabMessageQueue/src/main/java/ru/itis/javalabmessagequeqe/controllers/StompController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../STOMP/JavaLabMessageQueue/src/main/java/ru/itis/javalabmessagequeqe/interceptors/HandShakeInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../STOMP/StompConsumer/StompConsumer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../STOMP/StompConsumer/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../STOMP/StompProducer/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../STOMP/StompProducer/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../STOMP/StompProducer/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../STOMP/StompProducer/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../STOMP/StompProducer/StompProducer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../STOMP/StompProducer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../STOMP/StompProducer/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Consumer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Consumer/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Consumer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Consumer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Consumer/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Consumer/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Consumer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Consumer/src/main/java/ru/itis/consumer/ConsumerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Consumer/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Consumer/src/test/java/ru/itis/consumer/ConsumerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Producer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Producer/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Producer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Producer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Producer/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Producer/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Producer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Producer/src/main/java/ru/itis/producer/Email.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Producer/src/main/java/ru/itis/producer/ProducerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Producer/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/Producer/src/test/java/ru/itis/producer/ProducerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STOMP/StompProducer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../STOMP/StompProducer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/jlmq/JlmqConnector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            <state relative-caret-position="306">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/jlmq/JlmqConsumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-246">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="15" />
+            <state relative-caret-position="-136">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/jlmq/JlmqProducer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="340">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,9 +150,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -223,11 +230,12 @@
       <workItem from="1588094529715" duration="611000" />
       <workItem from="1588096877310" duration="624000" />
       <workItem from="1588273224550" duration="1444000" />
+      <workItem from="1588275467039" duration="33000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13363000" />
+    <option name="totallyTimeSpent" value="13396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -346,18 +354,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/jlmq/JlmqProducer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/jlmq/JlmqConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-246">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="15" />
+        <state relative-caret-position="340">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -366,8 +364,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/jlmq/JlmqConnector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        <state relative-caret-position="306">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/jlmq/JlmqConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
